@@ -12,4 +12,4 @@ Put csscolors.gedit-plugin and CSSColors.py in ~/.gnome2/gedit/plugins.
 
 ## Screenshot
 
-![Screnshot of plugin with Gedit 2](raw/master/doc/screenshot.png)
+![Screnshot of plugin with Gedit 2](https://github.com/Fredericlb/Gedit-CSS-Colors/raw/master/doc/screenshot.png)
