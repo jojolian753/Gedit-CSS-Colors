@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=csscolors
+IAge=3
+Name=CSS Highlight Colors
+Description=Highlight colors in CSS to show what they look like
+Authors=Frédéric Langlade-Bellone <fred@parapluie.org>
+Copyright=Copyright © 2011 Frédéric Langlade-Bellone <fred@parapluie.org>
+Website=http://www.parapluie.org
